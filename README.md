@@ -827,7 +827,7 @@ If performance matters to you:
    has been made to make the performance impact minimal, but it
    isn't nothing.
 
-## Breaking Changes in Version 7
+## Breaking Changes in Version 8
 
 This library changed to a different algorithm and internal data
 structure in version 7, yielding significantly better
